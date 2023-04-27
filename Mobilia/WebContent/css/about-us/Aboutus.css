@@ -1,0 +1,459 @@
+@charset "UTF-8";
+
+.Aboutus{
+	/*border : 1px solid black;*/
+	margin : 0px 150px 0px 100px;
+	width : 1700px;
+	
+}
+
+
+#intro{
+
+	
+}
+
+
+#intro_name{
+
+	/*border : 1px solid black;*/
+	text-align : center;
+	font-size : 25px;
+	font-family: "돋움",Dotum;
+	height : 200px;
+}
+
+
+#intro_title{
+	
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 180px;
+	margin : 0px 0px 0px 200px;
+	font-size : 70px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#title_name{
+	
+	position : relative;
+	left : 900px;
+	top : -30px;
+	/*border : 1px solid black;*/
+	font-family: "돋움",Dotum;
+	font-size : 18px;
+	color : gray;
+	width : 500px;
+	
+}
+
+#trace{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;
+}
+
+.trace_image{
+	vertical-align : middle;
+}
+
+.trace_text{
+	position : absolute;
+	top : 45%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 40px;
+	font-family: "돋움",Dotum;
+}
+
+#trace_text_cont{
+	font-family: "돋움",Dotum;
+	font-size : 15px;
+	text-align : left;
+}
+
+
+
+#future_cont{
+	/*border : 1px solid black;*/
+	text-align : center;
+	margin : 100px 300px 150px 450px;
+	font-family: "돋움",Dotum;
+	font-size : 30px;
+	font-weight : bold;
+	width : 750px;
+	height : 100px;
+	
+}
+
+.picture{
+	
+}
+
+
+#picture1{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 550px;
+	margin-left : 150px;
+	float: left;
+}
+
+#picture2{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 550px;
+	margin-left : 150px;
+	float : left;
+}
+
+#picture1_cont1{
+	font-family: "돋움",Dotum;
+	font-size : 20px;
+	font-weight : bold;
+	text-align : center;
+}
+
+#picture1_cont2{
+	text-align : center;
+}
+
+#picture2_cont1{
+	font-family: "돋움",Dotum;
+	font-size : 20px;
+	font-weight : bold;
+	text-align : center;
+}
+
+#picture2_cont2{
+	text-align : center;
+}
+
+
+.clear{
+	clear : both;
+}
+
+#custom_image{
+	margin-top : 200px;
+}
+
+
+#wood{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;
+}
+
+#wood_picture{
+	margin-top : 200px;
+}
+
+#wood_text{
+	
+	position : absolute;
+	top : 55%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 40px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#wood_text_cont1{
+	font-size : 70px;
+	font-weight : bold;
+	text-align : center;
+	
+}
+
+#wood_text_cont2{
+	font-size : 25px;
+	text-align : center;
+}
+
+
+#showroom{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;
+}
+
+#showroom_picture{
+	
+	margin-top : 200px;
+		
+}
+
+#showroom_text{
+	
+	position : absolute;
+	top : 55%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 40px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#showroom_text_con1{
+	font-size : 70px;
+	font-weight : bold;
+	text-align : center;
+	
+}
+
+#showroom_text_con2{
+	font-size : 25px;
+	text-align : center;
+}
+
+#factory_title{
+	/*border : 1px solid black;*/
+	width : 500px;
+	height : 160px;
+	margin : 150px 0px 0px 200px;
+	font-size : 60px;
+	font-family: "돋움",Dotum;
+	font-weight : bold;
+}
+
+#factory_location{
+	/*border : 1px solid black;*/
+	width : 320px;
+
+	margin-left : 1100px;
+	font-family: "돋움",Dotum;
+	color : gray;
+}
+
+#factory_intro1_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro1_title{
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 400px;
+	height : 300px;
+	float : left;
+		
+}
+
+#factory_intro1_cont1{
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro1_cont2{
+	
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+}
+
+
+#factory_intro2_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro2{
+	margin-top : 150px;
+}
+
+#factory_intro2_title{
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 420px;
+	height : 300px;
+	float : left;
+		
+}
+
+#factory_intro2_cont1{
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro2_cont2{
+	
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro3{
+	margin-top : 150px;
+}
+
+
+#factory_intro3_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro3_title{
+	
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 420px;
+	height : 300px;
+	float : left;
+
+}
+
+#factory_intro3_cont1{
+	
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro3_cont2{
+	
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#factory_intro4{
+	margin-top : 150px;
+}
+
+#factory_intro4_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro4_title{
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 420px;
+	height : 300px;
+	float : left;
+}
+
+#factory_intro4_cont1{
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro4_cont2{
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro5{
+	margin-top : 150px;
+}
+
+#factory_intro5_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro5_title{
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 420px;
+	height : 300px;
+	float : left;
+}
+
+#factory_intro5_cont1{
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro5_cont2{
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro6{
+	margin-top : 150px;
+}
+
+#factory_intro6_picture{
+	/*border : 1px solid black;*/
+	width : 600px;
+	height : 400px;
+	float : left;
+	margin-left : 200px;
+}
+
+#factory_intro6_title{
+	/*border : 1px solid black;*/
+	margin-left : 300px;
+	width : 420px;
+	height : 300px;
+	float : left;
+}
+
+#factory_intro6_cont1{
+	font-size : 25px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+}
+
+#factory_intro6_cont2{
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+}
+
+#shoowroomlook{
+	/*border : 1px solid black;*/
+	width : 450px;
+	height : 160px;
+	margin : 150px 0px 0px 200px;
+	font-size : 60px;
+	font-family: "돋움",Dotum;
+	font-weight : bold;
+	
+}
+
+#look_title{
+	/*border : 1px solid black;*/
+	background-color : black;
+	color : white;
+	font-size : 40px;
+	font-family: "돋움",Dotum;
+	width : 600px;
+	height : 50px;
+	margin-left : 700px;
+	
+	
+}
+
+#look_cont{
+	/*border : 1px solid black;*/
+	color : gray;
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	width : 700px;
+	margin-left : 700px;
+	
+}

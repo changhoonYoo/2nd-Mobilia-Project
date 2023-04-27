@@ -1,0 +1,85 @@
+@charset "UTF-8";
+#board-wrap{
+	float:center;
+	text-align:center;
+	width:auto; height:auto;
+	margin-left:10%; margin-right:10%;
+	
+}
+.title-area{
+	float:center;
+	text-align:center;
+}
+.write-info-text{
+	color:gray;
+}
+@keyframes fadeInDown{ 
+	0% {
+	opacity: 0;
+	transform: translate3d(0, -100%, 0);
+	}
+
+	to {
+	opacity: 1;
+	transform: translateZ(0);
+	}
+
+}
+.title-area h2{
+	margin-top: 80px;
+	position:relative;
+	animation:fadeInDown 1s;
+}
+.board-write-area{
+	text-align:center;
+	margin:50px;
+}
+.board-write-area table{
+	float:center;
+	width:auto;
+	margin-left:auto; margin-right:auto;
+	border:none;
+}
+.board-write-area table th{
+	border:2px solid #e8e8e8;
+	width:240px; height:auto;
+	background-color:#f9f9f9;
+	
+}
+.board-write-area table td{
+	border:1px solid #e8e8e8;
+	width:800px;
+	height:auto;
+	padding:20px;
+	text-align:left;
+}
+.board-write-area table td input{
+	width:800px; height:30px;
+	font-size:20px;
+}
+.board-write-area table td textarea{
+	width:800px; height:280px;
+	font-size:20px;
+	resize:none;
+}
+.write-button-area{
+	border:2px solid gray;
+	width:auto; height:50px;
+	margin:50px; padding:20px;
+}
+#write-submit-button{
+	float:left;
+	width:200px; height:50px;
+	margin-left:25%;
+	color:white; background-color:black;
+	cursor:pointer;
+	font-size:15px;
+}
+#write-list-button{
+	float:right;
+	width:200px; height:50px;
+	margin-right:25%;
+	color:white; background-color:gray;
+	cursor:pointer;
+	font-size:15px;
+}

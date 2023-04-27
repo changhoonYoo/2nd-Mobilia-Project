@@ -1,0 +1,112 @@
+@charset "UTF-8";
+.qna-board-area{
+	float:center;
+	width:1200px;
+	margin-left:auto; margin-right:auto;
+	
+}
+.title-area{
+	float:center;
+	text-align:center;
+}
+.info-text{
+	color:gray;
+	margin-left:150px;
+}
+@keyframes fadeInDown{ 
+	0% {
+	opacity: 0;
+	transform: translate3d(0, -100%, 0);
+	}
+
+	to {
+	opacity: 1;
+	transform: translateZ(0);
+	}
+
+}
+.title-area h2{
+	margin-top: 80px;
+	position:relative;
+	animation:fadeInDown 1s;
+}
+#write-button{
+	float:right;
+	width:120px; height:30px;
+	border:none;
+	background-color:black; color:white;
+	font-weight:bold; font-size:14px;
+}
+#write-button:hover{
+	cursor:pointer;
+	background-color:gray;
+}
+.qna-find-area{
+	width:400px; height:30px;
+	float:right;
+	margin-top:40px;
+	margin-right:auto; margin-left:auto;
+}
+.qna-find-area select{
+	width:120px; height:30px;
+	font-size:15px;
+}
+.qna-find-area #find_name{
+	width:200px; height:24px;
+	font-size:15px;
+}
+.qna-find-area #find_button{
+	width:60px; height:30px;
+	background-color:white;
+	border:1px solid gray;
+	font-weight:bold;
+	
+}
+.qna-find-area #find_button:hover{
+	opacity:0.6;
+	cursor:pointer;
+}
+.write-list-area{
+	border-bottom:1px solid gray;
+	padding:50px;
+}
+.write-list-area a{
+	color:black;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+.write-list-area a:hover{
+	opacity:0.7;
+	cursor:pointer;
+}
+.write-list-area label{
+	color:gray;
+	margin-right:10px; margin-left:10px;
+}
+#board-title-area{
+	
+	padding:5px;
+}
+#board-data-area{
+	padding:5px;
+	
+}
+#bList_paging{
+	padding-top:13px;
+	width:auto; height:50px;
+	float:center;
+	text-align:center;
+	margin-left:auto; margin-right:auto;
+}
+#bList_paging a{
+	font-size:20px; color:black;
+}
+#bList_paging .next-button{
+	text-decoration:none;
+	color:black;
+}
+#bList_paging .next-button:hover{
+	opacity:0.6;
+	text-decoration:under-line;
+}

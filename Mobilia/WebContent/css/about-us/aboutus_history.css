@@ -1,0 +1,461 @@
+@charset "UTF-8";
+
+.aboutus1{
+	
+	/*border : 1px solid black;*/
+	margin : 0px 100px 0px 100px;
+	width : 1700px;
+}
+
+#history{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 900;
+	font-family: "돋움",Dotum;
+	
+}
+
+.year{
+	text-align : center;
+	color : orange;
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	font-weight : 700;
+}
+
+#cont_2022{
+	
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+	
+}
+
+#picture_2022_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2022_2{
+	text-align : center;
+}
+
+#picture_2022_3{
+	text-align : center;
+}
+
+#picture_2022_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture-2022_cont2{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2022_4{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2022_5{
+	text-align : center;
+}
+
+#picture_2022_cont3{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+	
+}
+
+#picture_2022_cont4{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#cont_2021{
+	
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+	
+}
+
+#picture_2021_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2021_2{
+	text-align : center;
+}
+
+#picture_2021_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2021_cont2{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2021_3{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2021_4{
+	text-align : center;
+}
+
+#picture_2021_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2021_cont2{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2020{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+	
+}
+
+#picture_2020_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2020_2{
+	text-align : center;
+	
+	margin-bottom : 100px;
+	
+}
+
+#picture_2020_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2020_cont2{	
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#picture_2020_3{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2020_4{
+	text-align : center;
+	
+	margin-bottom : 100px;
+}
+
+#picture_2020_cont3{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2020_cont4{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+	
+}
+
+#cont_2019{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2019_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2019_2{
+	text-align : center;
+	
+	margin-bottom : 100px;
+}
+
+#picture_2019_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2019_cont2{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2019_3{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2019_4{
+	text-align : center;
+	
+	margin-bottom : 100px;
+}
+
+#picture_2019_cont3{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2019_cont4{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2018{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2018_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2018_2{
+	text-align : center;
+	margin-bottom : 100px;
+}
+
+#picture_2018_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2018_cont2{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2018_3{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2018_4{
+	text-align : center;
+
+	margin-bottom : 100px;
+}
+
+#picture_2018_cont3{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2018_cont4{
+	text-align : center;
+	font-weight : 400;
+	margin-bottom : 100px;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2017{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+	
+}
+
+#picture_2017_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2017_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2017_2{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2017_cont2{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2016{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2016_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2016_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+	
+}
+
+#picture_2016_2{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2016_cont2{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2015{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2015_1{
+	text-align : center;
+	margin-bottom : 50px;
+
+}
+
+#picture_2015_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2015_2{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2015_cont2{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2014{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2014_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2014_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#picture_2014_2{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2014_cont2{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+
+#cont_2013{
+	/*border : 1px solid black;*/
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	text-align : center;
+}
+
+#picture_2013_1{
+	text-align : center;
+	margin-bottom : 50px;
+}
+
+#picture_2013_cont1{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 800;
+	font-family: "돋움",Dotum;
+}
+

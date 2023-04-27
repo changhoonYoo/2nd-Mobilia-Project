@@ -1,0 +1,293 @@
+@charset "UTF-8";
+
+#aboutus_why{
+	margin : 0px 100px 0px 100px;
+	/*border : 1px solid black;*/
+	width : 1700px;
+	text-align : center;
+}
+
+#why{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;
+}
+
+#why_picture{
+	vertical-align : middle;
+}
+
+#cont_eng{
+	position : absolute;
+	top : 25%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 20px;
+	font-family: Cursive,"돋움",Dotum;
+	font-weight : 400;
+}
+
+#cont1{
+	position : absolute;
+	top : 35%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 40px;
+	font-family: "돋움",Dotum;
+	font-weight : 900;
+	
+}
+
+#cont2{
+	position : absolute;
+	top : 55%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+	font-weight : 600;
+}
+
+#cont3{
+	text-align : center;
+	font-weight : 600;
+	
+}
+
+#cont4{
+	text-align : center;
+	font-size : 40px;
+	font-weight : 900;
+}
+
+#forest{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;
+}
+
+#forest_img{
+	vertical-align : middle;
+}
+
+#forest_cont1{
+	position : absolute;
+	top : 25%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 50px;
+	font-family: Cursive,"돋움",Dotum;
+	font-weight : 400;
+}
+
+#forest_cont2{
+	position : absolute;
+	top : 55%;
+	left : 50%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	font-weight : 600;
+	text-align : left;
+}
+
+#wood{
+	margin-top : 100px;
+	text-align : center;	
+}
+
+
+#dry{
+	width : 100%;
+	position : relative;
+	margin : 10px auto;	
+}
+
+#dry_img{
+	margin-top : 100px;
+	vertical-align : middle;
+}
+
+#dry_cont1{
+	position : absolute;
+	top : 10%;
+	left : 35%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 50px;
+	font-family: Cursive,"돋움",Dotum;
+	font-weight : 400;
+	color : black;
+	text-align : left;
+}
+
+#dry_cont2{
+	position : absolute;
+	top : 45%;
+	left : 45%;
+	color : white;
+	transform : translate( -50%, -50%);
+	font-size : 20px;
+	font-family: "돋움",Dotum;
+	font-weight : 400;
+	text-align : left;
+	margin-bottom : 100px;
+	
+}
+
+.clear{
+	clear : both;
+}
+
+#pic1{
+	margin-top : 150px;
+	text-align : center;
+	margin-bottom : 150px;
+}
+
+#cont3{
+	text-align : center;
+	font-family: "돋움",Dotum;
+}
+
+#cont4{
+	text-align : center;
+	font-family: "돋움",Dotum;
+	font-size : 50px;
+	font-weight : 900;
+}
+
+
+#pic2{
+	margin-top : 50px;
+	text-align : center;
+	margin-bottom : 50px;
+	
+}
+
+#pic2_cont{
+	text-align : center;
+	font-size : 20px;
+	font-weight : 500;
+	font-family: "돋움",Dotum;
+	margin-bottom : 150px;
+}
+
+#pic3{
+	/*border : 1px solid black;*/
+	float : left;
+	margin-left : 100px;
+
+}
+
+#pic3_cont{
+	/*border : 1px solid black;*/
+	width : 800px;
+	height : 400px;
+	float : left;
+	margin-left : 100px;
+}
+
+#pic3_cont1{
+	font-size : 40px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+	float : left;
+	
+}
+#pic3_cont2{
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+	float : left;
+}
+
+#pic4_cont{
+	/*border : 1px solid black;*/
+	width : 800px;
+	height : 400px;
+	float : left;
+	margin-left : 100px;
+}
+
+#pic4_cont1{
+	font-size : 40px;
+	font-weight : bold;
+	font-family: "돋움",Dotum;
+	float : left;
+	
+}
+
+#pic4_cont2{
+	font-size : 18px;
+	font-family: "돋움",Dotum;
+	float : left;
+	
+}
+
+#showroom{
+	font-size : 40px;
+	font-weight : 700;
+	text-align : center;
+	font-family: "돋움",Dotum;
+}
+
+#location{
+	font-size : 20px;
+	text-align : center;
+	color : gray;
+	font-family: "돋움",Dotum;
+}
+
+#pic4{
+	/*border : 1px solid black;*/
+	float : left;
+	margin-left : 100px;
+}
+
+#cont5{
+	text-align : center;
+	font-size : 45px;
+	font-weight : 700;
+	font-family: "돋움",Dotum;
+	margin-bottom : 150px;
+}
+
+#cont6{
+	text-align : center;
+	font-size : 60px;
+	font-weight : 900;
+	font-family: "돋움",Dotum;
+	
+}
+
+#cont7{
+	text-align : center;
+	font-size : 30px;
+	font-weight : 500;
+	font-family: "돋움",Dotum;
+	
+}
+
+#showpic1{
+	margin-top : 100px;
+	text-align : center;
+	margin-bottom : 100px;
+}
+
+#showpic2{
+	text-align : center;
+	margin-bottom : 100px;
+}
+
+#showroom_img{
+	text-align : center;
+}
+
+
+
+
